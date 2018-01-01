@@ -6,7 +6,7 @@ state =
 	manpower = 12100
 	history=
 	{
-		owner = TAG
+		owner = ROK
 		
 		buildings = {
 			infrastructure = 3

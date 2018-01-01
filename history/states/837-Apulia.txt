@@ -10,9 +10,9 @@ state = {
 	}
 	
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_claim_by = TAG
+		owner = CEL
+		add_core_of = CEL
+		add_claim_by = CEL
 		victory_points = { 11837 8 } #Taranto
 		victory_points = { 9784 2 } #Bari
 		victory_points = { 883 1 } #Foggia

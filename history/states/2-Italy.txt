@@ -8,8 +8,8 @@ state = {
 
 	history=
 	{
-		owner = WOR
-		add_core_of = WOR
+		owner = CEL
+		add_core_of = CEL
 
 		victory_points = { 9904 40 }
 		buildings = {

@@ -8,8 +8,8 @@ state = {
 	state_category = city
 
 	history={
-		owner = TAG
-		add_core_of = TAG
+		owner = CEL
+		add_core_of = CEL
 		
 		
 		buildings = {

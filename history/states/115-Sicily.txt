@@ -6,9 +6,9 @@ state = {
 	
 	state_category = city
 	history={
-		owner = TAG
-		add_core_of = TAG
-		#add_claim_by = TAG
+		owner = CEL
+		add_core_of = CEL
+		#add_claim_by = CEL
 		victory_points = { 10074 8 } #Palermo
 		victory_points = { 4159 4 } #Messina
 		victory_points = { 4014 1 } #Catania

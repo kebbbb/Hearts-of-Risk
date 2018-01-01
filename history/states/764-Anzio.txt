@@ -8,9 +8,9 @@ state = {
 
 	history=
 	{
-		owner = TAG
-		add_core_of = TAG
-		add_claim_by = TAG
+		owner = CEL
+		add_core_of = CEL
+		add_claim_by = CEL
 		victory_points = { 11846 5 }
 		buildings = {
 			infrastructure = 8

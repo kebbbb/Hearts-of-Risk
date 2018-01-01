@@ -1,0 +1,35 @@
+
+state={
+	id=378
+	name="STATE_378"
+	resources={
+		aluminium=14.000
+	}
+
+	history={
+		owner = TOR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 4
+			610 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = TOR
+		victory_points = {
+			9713 1 
+		}
+
+	}
+
+	provinces={
+		610 677 710 766 768 781 1432 1601 3471 3588 3644 4331 4347 4521 4607 6482 6665 6681 6694 6699 6745 6757 6772 6876 7721 9697 9713 9730 10159 10305 10422 10625 11658 11698 12134 
+	}
+	manpower=3477248
+	buildings_max_level_factor=1.000
+	state_category=city
+}

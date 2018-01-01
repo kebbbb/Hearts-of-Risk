@@ -1,0 +1,22 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = MRF
+		add_core_of = MRF
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7987 8103 10900 
+	}
+	manpower=6539
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

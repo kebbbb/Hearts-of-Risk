@@ -1,0 +1,31 @@
+
+state={
+	id=863
+	name="STATE_863"
+
+	history={
+		owner = MEM
+		add_core_of = MEM
+		victory_points = {
+			3083 1 
+		}
+		buildings = {
+			infrastructure = 6
+			dockyard = 1
+			3083 = {
+				coastal_bunker = 1
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3083 6108 9194 11105 11211 
+	}
+	manpower=498400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

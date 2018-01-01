@@ -1,0 +1,33 @@
+
+state={
+	id=540
+	name="STATE_540"
+
+	history={
+		owner = VED
+		add_core_of = VED
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			8248 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			8248 1 
+		}
+		victory_points = {
+			10966 1 
+		}
+
+	}
+
+	provinces={
+		5158 8248 10966 12958 12981 
+	}
+	manpower=2711500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

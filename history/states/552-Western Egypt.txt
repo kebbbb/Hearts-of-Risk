@@ -1,0 +1,22 @@
+
+state={
+	id=552
+	name="STATE_552"
+
+	history={
+		owner = RIO
+		add_core_of = RIO
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2064 7216 12099 12816 
+	}
+	manpower=20214
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

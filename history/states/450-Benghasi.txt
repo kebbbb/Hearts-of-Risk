@@ -1,0 +1,31 @@
+
+state={
+	id=450
+	name="STATE_450"
+
+	history={
+		owner = RIO
+		add_core_of = RIO
+		victory_points = {
+			11954 1 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			industrial_complex = 1
+			11954 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4120 10123 11954 
+	}
+	manpower=82535
+	buildings_max_level_factor=1.000
+	state_category=town
+}

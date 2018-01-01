@@ -1,0 +1,32 @@
+
+state={
+	id=551
+	name="STATE_551"
+
+	history={
+		owner = MRF
+		add_core_of = MRF
+		add_core_of = MRF
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			air_base = 2
+			12725 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			12806 1 
+		}
+
+	}
+
+	provinces={
+		1914 2003 2016 2046 2088 4918 4961 4963 7925 7989 8084 10743 10784 10795 10827 10851 12725 12744 12796 12800 12806 12826 12836 12862 12881 12887 
+	}
+	manpower=1993507
+	buildings_max_level_factor=1.000
+	state_category=town
+}

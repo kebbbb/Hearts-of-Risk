@@ -1,0 +1,26 @@
+
+state={
+	id=986
+	name="STATE_986"
+
+	history={
+		owner = TAG
+		buildings = {
+			infrastructure = 2
+			6361 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = TAG
+
+	}
+
+	provinces={
+		1352 1806 2043 4811 7834 7892 9802 
+	}
+	manpower=1154481
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=513
+	name="STATE_513"
+
+	history={
+		owner = TAG
+		add_core_of = TAG
+		add_core_of = TAG
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			1126 1 
+		}
+		victory_points = {
+			10731 1 
+		}
+
+	}
+
+	provinces={
+		1958 8088 10731 12711 12842 
+	}
+	manpower=102354
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

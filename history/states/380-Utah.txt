@@ -1,0 +1,28 @@
+
+state={
+	id=380
+	name="STATE_380"
+	resources={
+		tungsten=106.000
+	}
+
+	history={
+		owner = LEE
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = LEE
+		victory_points = {
+			4865 1 
+		}
+
+	}
+
+	provinces={
+		1663 4668 4742 4865 7888 9695 10582 10651 10662 12535 12573 
+	}
+	manpower=507846
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

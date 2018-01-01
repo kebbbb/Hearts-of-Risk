@@ -1,0 +1,30 @@
+
+state={
+	id=564
+	name="STATE_564"
+	resources={
+		steel=20.000
+		chromium=34.000
+		tungsten=28.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = WYP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = WYP
+		add_claim_by = WYP
+
+	}
+
+	provinces={
+		1672 1696 1723 1762 1787 1798 1853 1859 1868 4655 4677 4705 4719 4729 4732 4766 4801 4837 4856 4862 7676 7717 7749 7751 7752 7786 7816 7823 7835 7860 7885 10528 10554 10575 10632 10658 10683 10704 12507 12533 12539 12605 12612 12641 12644 12665 12669 12686 
+	}
+	manpower=370893
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

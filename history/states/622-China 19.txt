@@ -1,0 +1,45 @@
+
+state={
+	id=622
+	name="STATE_622"
+	resources={
+		steel=4.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = TAG
+		add_core_of = TAG
+		add_core_of = TAG
+		add_core_of = TAG
+		victory_points = {
+			8049 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 4
+			10733 = {
+				bunker = 2
+
+			}
+			12156 = {
+				bunker = 2
+
+			}
+			5007 = {
+				bunker = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		517 1458 1647 1933 1959 1985 2087 3427 3742 3745 4939 4960 4986 5007 5025 7208 7314 7511 7659 8049 8055 8081 8127 10451 10629 10724 10733 10854 10880 12156 12356 12706 12880 
+	}
+	manpower=7906200
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=929
+	name="STATE_929"
+
+	history={
+		owner = AMS
+		add_core_of = AMS
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		801 3802 3941 3975 4627 6823 6850 6958 6971 7466 7588 7646 9789 9923 10441 11888 
+	}
+	manpower=1799000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

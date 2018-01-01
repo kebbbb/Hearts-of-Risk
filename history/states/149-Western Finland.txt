@@ -1,0 +1,23 @@
+
+state={
+	id=149
+	name="STATE_149"
+
+	history={
+		owner = SUO
+		add_core_of = SUO
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		63 82 120 132 3026 6081 6138 6198 6212 9038 9156 11041 11132 
+	}
+	manpower=462555
+	buildings_max_level_factor=1.000
+	state_category=town
+}

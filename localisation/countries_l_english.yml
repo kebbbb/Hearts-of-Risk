@@ -1,0 +1,303 @@
+﻿l_english:
+ TOY_elite:0 ""
+ TOY_elite_DEF:0 ""
+ TOY_founderism:0 ""
+ TOY_founderism_DEF:0 ""
+ TOY_neutrality:0 "Helmand Republic"
+ TOY_neutrality_DEF:0 "The Helmand Republic"
+ TOY_riskalite:0 ""
+ TOY_riskalite_DEF:0 ""
+ TOY_elite_ADJ:0 ""
+ TOY_founderism_ADJ:0 ""
+ TOY_neutrality_ADJ:0 ""
+ TOY_riskalite_ADJ:0 ""
+ TOY_john:0 ""
+ TOY_john_DEF:0 ""
+ TOY_john_ADJ:0 "Johnite"
+ TOY_sony:0 ""
+ TOY_sony_DEF:0 ""
+ TOY_sony_ADJ:0 "Sonyite"
+
+ LEE_neutrality:0 "Molossia"
+
+ JSH_neutrality:0 "Josiah"
+
+ BRD_neutrality:0 "Quanda"
+
+ VNC_neutrality:0 "Venelouisiana"
+
+ AMS_neutrality:0 "The Hague"
+
+ IMP_neutrality:0 "Bulgarian Clique"
+
+ GNL_founderism:0 "Pingerland"
+
+ ARQ_riskalite:0 "Arquebus"
+
+ PHL_neutrality:0 "Philadelphia"
+
+ PLX_riskalite:0 "Nicodaffi Libyan Jamahiriya"
+
+ GIT_participant:0 "Orange"
+
+ ALX_founderism:0 "Union of Alexander"
+ 
+ VED_riskalite:0 "Vedran"
+ 
+ YAY_founderism:0 "Yay Guard"
+ 
+ MEM_neutrality:0 "Cole Sweden"
+ 
+ TER_founderism:0 "Empire of Ternovia"
+
+ CEL_founderism:0 "Cellonesia"
+
+ RIO_founderism:0 "Rioghail Khedivate"
+
+ DEW_sony:0 "Dewistan"
+
+ TRV_riskalite:0 "Trivaghul"
+
+ TKC_neutrality:0 "Takechiyo"
+
+ LEJ_neutrality:0 "Lejjugal"
+
+
+ AGH_neutrality:0 "Halit Agha"
+
+ DOC_neutrality:0 "Docarolina"
+
+ ADM_neutrality:0 "Adaminian Empire"
+ ADM_neutrality_DEF:0 "The Adaminian Empire"
+ ADM_neutrality_ADJ:0 "Adaminite"
+
+ SHE_riskalite:0 "Sherman"
+ SHE_riskalite_DEF:0 "The Shermans"
+ SHE_riskalite_ADJ:0 "Riskalite"
+
+
+
+
+
+#African Revolters
+ MRF_riskalite:0 "Marfit"
+ ABA_riskalite:0 "Abarai"
+#
+
+ BUM_elite:0 "Nice Montana"
+
+ BOB_neutrality:0 "Kingdom of Bob"
+ 
+ MIT_neutrality:0 "Mitsuhito"
+
+ ROX_neutrality:0 "Rock of Japan"
+
+ SON_neutrality:0 "Sonic Qajar"
+
+ GUI_founderism:0 "Guil Brazil"
+ 
+ WOR_founderism:0 "Worthe"
+ 
+ HWK_neutrality:0 "Hawk State"
+
+ BRY_founderism:0 "Bryce Arizona"
+ BRY_riskalite:0 "Riskalite Arizona"
+
+ MRF_riskalite:0 "Marfit"
+
+ PRS_founderism:0 "Prestonk Cascadia"
+
+ ICY_founderism:0 "Icestralia"
+
+ FSH_founderism:0 "After The Flash"
+
+ LOS_elite:0 "Loser"
+
+ NNJ_neutrality:0 "Imperial State of Superstown"
+
+ BOX_neutrality:0 "Boxstralia"
+
+ GAY_elite:0 "fucking idiot"
+ GAY_riskalite:0 "Riskalite Stuff"
+
+ FIR_elite:0 "Fire Republic"
+
+ ASA_founderism:0 "Asatru"
+
+ SUP_neutrality:0 "Super Syria"
+
+ OMG_neutrality:0 "Omega Magyar"
+
+ OWN_neutrality:0 "Ownage"
+ 
+ WYP_neutrality:0 "Wyprgolia"
+ 
+ TOR_neutrality:0 "Tornadocracy"
+ TOR_neutrality_DEF:0 "The Tornadocracy"
+
+ SUO_neutrality:0 "Suomi"
+ 
+ SRY_founderism:0 "Quebeceryna"
+
+ CAS_elite:0 "Castlemore Reich"
+
+ BEN_founderism:0 "Bennenich Republic"
+
+ BLK_founderism:0 "Blance"
+ BLK_riskalite:0 "Blance Rogue"
+
+ RSK_riskalite:0 "Riskalites"
+ RSK_riskalite_ADJ:0 "Riskalite"
+ RSK_riskalite_DEF:0 "The Riskalites"
+
+ AMN_founderism:0 "Amnity"
+
+ INJ_founderism:0 "Senior Injuid"
+ INJ_neutrality:0 "Independent Injuid"
+
+ JOO_riskalite:0 "Jono"
+
+ SPA_elite:0 "Spartan"
+
+
+ MYA_neutrality:0 "Johancreeper East Indies"
+ MYA_neutrality_DEF:0 "The Johancreeper East Indies"
+ MYA_lancerism:0 "Johancreeper East Indies"
+ MYA_lancerism_DEF:0 "The East Indies"
+ MYA_lancerism_ADJ:0 "Lancer"
+
+ ZAB_elite:0 ""
+ ZAB_elite_DEF:0 ""
+ ZAB_founderism:0 ""
+ ZAB_founderism_DEF:0 ""
+ ZAB_neutrality:0 "Hungarn"
+ ZAB_neutrality_DEF:0 "The Huns"
+ ZAB_riskalite:0 ""
+ ZAB_riskalite_DEF:0 ""
+ ZAB_elite_ADJ:0 ""
+ ZAB_founderism_ADJ:0 ""
+ ZAB_neutrality_ADJ:0 ""
+ ZAB_riskalite_ADJ:0 ""
+ ZAB_john:0 ""
+ ZAB_john_DEF:0 ""
+ ZAB_john_ADJ:0 "Johnite"
+ ZAB_sony:0 ""
+ ZAB_sony_DEF:0 ""
+ ZAB_sony_ADJ:0 "Sonyite"
+ ZAB_lancerism:0 ""
+
+ LAN_elite:0 ""
+ LAN_elite_DEF:0 ""
+ LAN_founderism:0 ""
+ LAN_founderism_DEF:0 ""
+ LAN_neutrality:0 "Helmand Republic"
+ LAN_neutrality_DEF:0 "The Helmand Republic"
+ LAN_riskalite:0 ""
+ LAN_riskalite_DEF:0 ""
+ LAN_elite_ADJ:0 ""
+ LAN_founderism_ADJ:0 ""
+ LAN_neutrality_ADJ:0 ""
+ LAN_riskalite_ADJ:0 ""
+ LAN_john:0 ""
+ LAN_john_DEF:0 ""
+ LAN_john_ADJ:0 "Johnite"
+ LAN_sony:0 ""
+ LAN_sony_DEF:0 ""
+ LAN_sony_ADJ:0 "Sonyite"
+ LAN_lancerism:0 "Lancer Collective"
+
+ FAG_elite:0 ""
+ FAG_elite_DEF:0 ""
+ FAG_founderism:0 ""
+ FAG_founderism_DEF:0 ""
+ FAG_neutrality:0 "Thunder Dragon Empire"
+ FAG_neutrality_DEF:0 "The Thunder Dragon Empire"
+ FAG_riskalite:0 ""
+ FAG_riskalite_DEF:0 ""
+ FAG_elite_ADJ:0 ""
+ FAG_founderism_ADJ:0 ""
+ FAG_neutrality_ADJ:0 ""
+ FAG_riskalite_ADJ:0 ""
+ FAG_john:0 ""
+ FAG_john_DEF:0 ""
+ FAG_john_ADJ:0 "Johnite"
+ FAG_sony:0 ""
+ FAG_sony_DEF:0 ""
+ FAG_sony_ADJ:0 "Sonyite"
+ FAG_lancerism:0 "Lancer Collective"
+
+ VAS_elite:0 ""
+ VAS_elite_DEF:0 ""
+ VAS_founderism:0 ""
+ VAS_founderism_DEF:0 ""
+ VAS_neutrality:0 "Helmand Republic"
+ VAS_neutrality_DEF:0 "The Helmand Republic"
+ VAS_riskalite:0 "Vasily Islas"
+ VAS_riskalite_DEF:0 "The Vasily Islands"
+ VAS_elite_ADJ:0 ""
+ VAS_founderism_ADJ:0 ""
+ VAS_neutrality_ADJ:0 ""
+ VAS_riskalite_ADJ:0 ""
+ VAS_john:0 ""
+ VAS_john_DEF:0 ""
+ VAS_john_ADJ:0 "Johnite"
+ VAS_sony:0 ""
+ VAS_sony_DEF:0 ""
+ VAS_sony_ADJ:0 "Sonyite"
+
+ JOH_elite:0 ""
+ JOH_elite_DEF:0 ""
+ JOH_founderism:0 ""
+ JOH_founderism_DEF:0 ""
+ JOH_neutrality:0 "Helmand Republic"
+ JOH_neutrality_DEF:0 "The Helmand Republic"
+ JOH_riskalite:0 ""
+ JOH_riskalite_DEF:0 ""
+ JOH_elite_ADJ:0 ""
+ JOH_founderism_ADJ:0 ""
+ JOH_neutrality_ADJ:0 ""
+ JOH_riskalite_ADJ:0 ""
+ JOH_john:0 ""
+ JOH_john_DEF:0 ""
+ JOH_john_ADJ:0 "Johnite"
+ JOH_sony:0 "Sonyite Empire"
+ JOH_sony_DEF:0 "The Sonyite Empire"
+ JOH_sony_ADJ:0 "Sonyite"
+
+ ECG_elite:0 ""
+ ECG_elite_DEF:0 ""
+ ECG_founderism:0 ""
+ ECG_founderism_DEF:0 ""
+ ECG_neutrality:0 "Helmand Republic"
+ ECG_neutrality_DEF:0 "The Helmand Republic"
+ ECG_riskalite:0 ""
+ ECG_riskalite_DEF:0 ""
+ ECG_elite_ADJ:0 ""
+ ECG_founderism_ADJ:0 ""
+ ECG_neutrality_ADJ:0 ""
+ ECG_riskalite_ADJ:0 ""
+ ECG_john:0 "Epic Republic"
+ ECG_john_DEF:0 "The Epic Republic"
+ ECG_john_ADJ:0 "Johnite"
+ ECG_sony:0 ""
+ ECG_sony_DEF:0 ""
+ ECG_sony_ADJ:0 "Sonyite"
+
+ ROK_elite:0 ""
+ ROK_elite_DEF:0 ""
+ ROK_founderism:0 ""
+ ROK_founderism_DEF:0 ""
+ ROK_neutrality:0 "Rocklee Phillipines"
+ ROK_neutrality_DEF:0 "The Rocklee Phillipines"
+ ROK_riskalite:0 ""
+ ROK_riskalite_DEF:0 ""
+ ROK_elite_ADJ:0 ""
+ ROK_founderism_ADJ:0 ""
+ ROK_neutrality_ADJ:0 ""
+ ROK_riskalite_ADJ:0 ""
+ ROK_john:0 ""
+ ROK_john_DEF:0 ""
+ ROK_john_ADJ:0 "Johnite"
+ ROK_sony:0 ""
+ ROK_sony_DEF:0 ""
+ ROK_sony_ADJ:0 "Sonyite"

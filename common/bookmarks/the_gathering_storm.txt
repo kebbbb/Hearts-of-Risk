@@ -1,0 +1,46 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "AMN"
+		default = yes
+		
+		"AMN"={
+			history = "AMN_GATHERING_STORM_DESC"
+			ideology = founderism
+			ideas = {
+				
+			}
+			
+		"CAS"={
+			history = "CAS_GATHERING_STORM_DESC"
+			ideology = elite
+			ideas = {
+				
+			}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+
+		# minors from DLC ####
+		
+		"MYA"={
+			minor = yes
+			history = "LHS_GATHERING_STORM_DESC"
+			ideology = authoritarian_democrat
+			ideas = {
+			
+			}			
+		}
+		
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

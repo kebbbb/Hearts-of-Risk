@@ -1,0 +1,24 @@
+
+state={
+	id=455
+	name="STATE_455"
+
+	history={
+		owner = TAG
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			7151 1 
+		}
+
+	}
+
+	provinces={
+		1544 4017 4115 4440 4562 4574 4591 4603 7001 10089 11976 
+	}
+	manpower=932000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

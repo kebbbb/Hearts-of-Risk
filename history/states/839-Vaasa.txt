@@ -1,0 +1,29 @@
+
+state={
+	id=839
+	name="Vaasa"
+
+	history={
+		owner = MEM
+		add_core_of = MEM
+		victory_points = {
+			3122 3 
+		}
+		buildings = {
+			infrastructure = 4
+			3122 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		66 158 195 3122 3172 6013 11065 11081 11121 11125 11164 
+	}
+	manpower=121460
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

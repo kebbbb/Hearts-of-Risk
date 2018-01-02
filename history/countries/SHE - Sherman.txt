@@ -59,7 +59,7 @@ create_country_leader = {
 	desc = "POLITICS_ZHANG_GUOTAO_DESC"
 	picture = "Portrait_SHE.png"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = blueism
 	traits = {
 	}
 }

@@ -7,11 +7,17 @@
 
 
 
-LRD = "countries/Lord.txt"
-AUV = "countries/Auvergne.txt"
 
 
 
+
+
+
+
+
+PAV = "countries/Pavalix.txt"
+MNF = "countries/Manfred.txt"
+ANC = "countries/Anarchy.txt"
 
 
 
@@ -23,6 +29,15 @@ INJ = "countries/Injuid.txt"
 PEP = "countries/Peep.txt"
 
 
+
+
+
+
+####Persian States
+LRD = "countries/Lord.txt"
+AUV = "countries/Auvergne.txt"
+SON = "countries/Sonic.txt"
+#############################
 
 
 
@@ -56,7 +71,6 @@ BUM = "countries/Bumhole.txt"
 BOB = "countries/Bob.txt"
 MIT = "countries/Mitsuhito.txt"
 ROX = "countries/Rockoxe.txt"
-SON = "countries/Sonic.txt"
 TAG = "countries/Tag.txt"
 TER = "countries/Ternovia.txt"
 CEL = "countries/Supercell.txt"

@@ -5,6 +5,28 @@
 
 
 
+
+
+PAV = {
+	color = rgb { 73 78 184 }
+	color_ui = rgb { 74 78 180 }
+}
+MNF = {
+	color = rgb { 83 83 89 }
+	color_ui = rgb { 80 80 81 }
+}
+ANC = {
+	color = rgb { 117 76 22 }
+	color_ui = rgb { 110 70 20 }
+}
+
+
+
+
+
+
+
+
 AUV = {
 	color = rgb { 67 179 183 }
 	color_ui = rgb { 70 180 180 }
@@ -17,14 +39,6 @@ LRD = {
 	color = rgb { 170 38 38 }
 	color_ui = rgb { 170 40 40 }
 }
-
-
-
-
-
-
-
-
 
 LEE = {
 	color = rgb { 87 11 11 }

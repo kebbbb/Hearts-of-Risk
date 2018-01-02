@@ -4,12 +4,12 @@ state={
 	name="STATE_390"
 
 	history={
-		owner = TAG
+		owner = BUM
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = TAG
+		add_core_of = BUM
 		victory_points = {
 			1747 1 
 		}
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1747 1767 1875 3750 4610 4820 4839 4880 6722 7745 7760 7771 7862 7877 10569 10587 10595 12566 12620 12667 
+		1747 1767 1815 3750 4610 4820 4839 6722 7760 7814 7877 10587 12566 
 	}
 	manpower=692849
 	buildings_max_level_factor=1.000

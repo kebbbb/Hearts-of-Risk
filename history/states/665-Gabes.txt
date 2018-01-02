@@ -1,25 +1,26 @@
-state = {
+
+state={
 	id=665
 	name="STATE_665"
 
 	history={
-		owner = PLX
-		add_core_of = PLX
+		owner = ANC
+		add_core_of = ANC
 		buildings = {
 			infrastructure = 4
-		industrial_complex = 1
+			industrial_complex = 1
 
 		}
-                victory_points = {  #Gabès
-			7005 2
+		victory_points = {
+			7005 2 
 		}
+
 	}
-	
-	state_category = pastoral
 
 	provinces={
-		1105 3987 4992 7005 9983 10026 10082 11935 11957 12000
+		1105 3987 4903 4970 4992 7005 8061 8077 9943 9983 10026 10082 11935 11957 12000 12888 
 	}
 	manpower=427824
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

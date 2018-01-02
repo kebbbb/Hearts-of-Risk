@@ -4,7 +4,7 @@ state={
 	name="STATE_365"
 
 	history={
-		owner = TAG
+		owner = MNF
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 			}
 
 		}
-		add_core_of = TAG
+		add_core_of = MNF
 		victory_points = {
 			12384 10 
 		}
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		638 968 1433 1480 5090 7118 7583 7612 9949 9996 10394 10437 10465 10492 11975 12325 12384 12470 12498 
+		638 860 968 1433 1480 4594 5090 7118 7583 7612 7640 9949 9996 10394 10437 10465 10492 11509 11975 12325 12384 12470 12498 12803 
 	}
 	manpower=2908504
 	buildings_max_level_factor=1.000

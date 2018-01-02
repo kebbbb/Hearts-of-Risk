@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = TAG
+		owner = AMS
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 3
@@ -19,7 +19,7 @@ state={
 			}
 
 		}
-		add_core_of = TAG
+		add_core_of = AMS
 		victory_points = {
 			6845 20 
 		}
@@ -30,7 +30,7 @@ state={
 	}
 
 	provinces={
-		702 822 847 862 880 891 894 3687 3697 3824 3847 3850 3880 3897 6705 6845 6869 6872 6885 6899 6929 6984 9662 9804 9820 9836 11648 11758 11769 11785 11789 11799 11800 11817 12405 
+		822 847 880 3824 3847 3850 3880 6705 6845 6869 6872 6885 6899 6929 6984 9804 11758 11769 11785 11789 11800 12405 
 	}
 	manpower=9631346
 	buildings_max_level_factor=1.000

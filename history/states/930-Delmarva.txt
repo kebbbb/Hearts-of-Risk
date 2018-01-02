@@ -3,8 +3,8 @@ state = {
 	name="STATE_930"
 
 	history={
-		owner = TAG
-		add_core_of=USA
+		owner = AMS
+		add_core_of = AMS
 		buildings={
 			infrastructure=4
 		}

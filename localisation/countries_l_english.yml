@@ -18,6 +18,18 @@
  TOY_sony_DEF:0 ""
  TOY_sony_ADJ:0 "Sonyite"
 
+
+
+
+
+
+
+ MNF_founderism:0 "Manfred"
+
+ PAV_neutrality:0 "Pavalix"
+
+ ANC_neutrality:0 "Anarchic Tunisia"
+
  LEE_neutrality:0 "Molossia"
 
  JSH_neutrality:0 "Josiah"
@@ -71,7 +83,7 @@
  ADM_neutrality_DEF:0 "The Adaminian Empire"
  ADM_neutrality_ADJ:0 "Adaminite"
 
- SHE_riskalite:0 "Sherman"
+ SHE_riskalite:0 "Shermans"
  SHE_riskalite_DEF:0 "The Shermans"
  SHE_riskalite_ADJ:0 "Riskalite"
 

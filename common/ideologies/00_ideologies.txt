@@ -12,6 +12,9 @@ ideologies = {
 		
 			socialism = {
 			}
+			
+			conservatism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -64,6 +67,18 @@ ideologies = {
 			
 			bryceism = {
 			}
+
+			leninism = {
+			}
+			
+			stalinism = {
+			}
+
+			marxism = {
+			}
+			
+			anarcho_riskalite = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -111,6 +126,15 @@ ideologies = {
 			}
 			
 			elite_ideology = {
+			}
+			
+			falangism = {
+			}
+			
+			rexism = {
+			}
+			
+			nazism = {
 			}
 		}
 		

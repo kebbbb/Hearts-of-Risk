@@ -17,7 +17,7 @@ state = {
 			9628 1
 		}
 		add_core_of = SPA
-		add_core_of = RNC
+		add_core_of = TAG
 	}
 
 	provinces={

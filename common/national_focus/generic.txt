@@ -896,7 +896,20 @@ focus_tree = {
 			modifier = {
 				factor = 0
 				date < 1939.1.1
-				num_of_controlled_states < 2		
+				OR = { 
+					# we dont want chinese minors to go crazy on slots early since they get eaten
+					tag = GXC 
+					tag = YUN
+					tag = SHX
+					tag = XSM
+					tag = BEL
+					tag = LUX
+					tag = HOL
+					tag = DEN
+
+					# we also dont want tiny nations to go crazy with slots right away
+					num_of_controlled_states < 2
+				}				
 			}
 		}
 	}
@@ -1626,13 +1639,10 @@ focus_tree = {
 		prerequisite = { focus = political_effort }
 		mutually_exclusive = { focus = liberty_ethos}
 		available = {
-			NOT = {
-				OR = {
-					has_government = social_democrat
-					has_government = social_liberal
-					has_government = market_liberal
-					has_government = social_conservative
-				}
+			OR = {
+				has_government = elite
+				has_government = riskalite
+				has_government = neutrality
 			}
 		}
 		x = 18
@@ -1649,7 +1659,7 @@ focus_tree = {
 				OR = {
 					AND = {
 						is_historical_focus_on = yes
-						has_government = authoritarian_democrat
+						has_government = neutrality
 					}
 					has_idea = neutrality_idea
 				}
@@ -1663,14 +1673,13 @@ focus_tree = {
 
 	focus = {
 		id = nationalism_focus
-		icon = GFX_goal_support_fascism #icon = GFX_goal_tripartite_pact
+		icon = GFX_goal_support_elite #icon = GFX_goal_tripartite_pact
 		prerequisite = { focus = collectivist_ethos }
 		mutually_exclusive = { focus = internationalism_focus }
 		available = {
 			OR = {
-				has_government = national_populist
-				has_government = paternal_autocrat
-				has_government = authoritarian_democrat
+				has_government = elite
+				has_government = neutrality
 			}
 		}
 		x = 16
@@ -1686,14 +1695,14 @@ focus_tree = {
 				factor = 2
 				any_neighbor_country = {
 					is_major = yes
-					has_government = national_populist
+					has_government = elite
 				}
 			}
 			modifier = {
 				factor = 0
 				AND = {
 					is_historical_focus_on = yes
-					NOT = { has_government = national_populist }
+					NOT = { has_government = elite }
 				}
 			}
 		}
@@ -1705,14 +1714,19 @@ focus_tree = {
 	
 	focus = {
 		id = internationalism_focus
-		icon = GFX_goal_support_communism #icon = GFX_goal_tripartite_pact
+		icon = GFX_goal_support_riskalite #icon = GFX_goal_tripartite_pact
 		prerequisite = { focus = collectivist_ethos }
 		mutually_exclusive = { focus = nationalism_focus }
 		available = {
-			OR = {
-				has_government = totalist
-				has_government = syndicalist
-				has_government = radical_socialist
+			if = {
+				limit = { original_tag = CHI }
+				has_government = riskalite
+				else = {
+					OR = {
+						has_government = riskalite
+						has_government = neutrality
+					}
+				}
 			}
 		}
 		x = 18
@@ -1728,14 +1742,14 @@ focus_tree = {
 				factor = 2
 				any_neighbor_country = {
 					is_major = yes
-					has_government = totalist
+					has_government = riskalite
 				}
 			}			
 			modifier = {
 				factor = 0
 				AND = {
 					is_historical_focus_on = yes
-					NOT = { has_government = totalist }
+					NOT = { has_government = riskalite }
 				}
 			}
 		}
@@ -1752,11 +1766,8 @@ focus_tree = {
 		mutually_exclusive = { focus = collectivist_ethos }
 		available = {
 			OR = {
-				has_government = social_democrat
-				has_government = social_liberal
-				has_government = market_liberal
-				has_government = social_conservative
-				has_government = authoritarian_democrat
+				has_government = founderism
+				has_government = neutrality
 			}
 		}
 		x = 20
@@ -1773,20 +1784,14 @@ focus_tree = {
 				any_neighbor_country = {
 					is_major = yes
 					OR = {
-						has_government = totalist
-						has_government = national_populist
+						has_government = riskalite
+						has_government = elite
 					}
 				}
 				NOT = {
 					any_neighbor_country = {
 						is_major = yes
-						OR = {
-							has_government = social_democrat
-							has_government = social_liberal
-							has_government = market_liberal
-							has_government = social_conservative
-							has_government = authoritarian_democrat
-						}
+						has_government = founderism
 					}
 				}
 			}
@@ -1901,16 +1906,16 @@ focus_tree = {
 		completion_reward = {
 			add_ideas = military_youth_focus
 			if = {
-				limit = { has_government = national_populist }
+				limit = { has_government = elite }
 				add_popularity = {
-					ideology = national_populist
+					ideology = elite
 					popularity = 0.2
 				}
 			}
 			if = {
-				limit = { has_government = totalist }
+				limit = { has_government = riskalite }
 				add_popularity = {
-					ideology = totalist
+					ideology = riskalite
 					popularity = 0.2
 				}
 			}
@@ -2039,16 +2044,16 @@ focus_tree = {
 		completion_reward = {
 			add_ideas = political_commissars_focus
 			if = {
-				limit = { has_government = national_populist }
+				limit = { has_government = elite }
 				add_popularity = {
-					ideology = national_populist
+					ideology = elite
 					popularity = 0.2
 				}
 			}
 			if = {
-				limit = { has_government = totalist }
+				limit = { has_government = riskalite }
 				add_popularity = {
-					ideology = totalist
+					ideology = riskalite
 					popularity = 0.2
 				}
 			}

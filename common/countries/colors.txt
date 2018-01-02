@@ -314,8 +314,8 @@ CAS = {
 	color_ui = rgb { 80 80 80 }
 }
 FAG = {
-	color = rgb { 110 60 10 }
-	color_ui = rgb { 120 60 10 }
+	color = rgb { 211 183 55 }
+	color_ui = rgb { 200 200 55 }
 }
 INJ = {
 	color = rgb { 34 148 95 }

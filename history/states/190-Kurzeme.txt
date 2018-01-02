@@ -17,7 +17,7 @@ state = {
 			}
 		}
 		add_core_of = SHE
-		add_core_of = COU
+		add_core_of = TAG
 	}
 
 	provinces={

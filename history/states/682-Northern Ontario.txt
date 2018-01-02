@@ -20,7 +20,7 @@ state={
 		victory_points = {
 			9480 1 
 		}
-		add_core_of = TNNJ
+		add_core_of = TAG
 
 	}
 

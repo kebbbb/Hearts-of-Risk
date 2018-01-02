@@ -55,28 +55,8 @@ add_ideas = {
 
 
 # DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = PRS
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-	}
-	else = {
-		puppet = PRS
-	}
-}
 
 
-create_faction = Risk Council
-add_to_faction = PRS
-#add_to_faction = SRY
-add_to_faction = GUI
-add_to_faction = BRY
-add_to_faction = GAY
-add_to_faction = WOR
 
 
 set_convoys = 600

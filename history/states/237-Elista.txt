@@ -10,7 +10,7 @@ state = {
 
 		}
 		add_core_of = SPA
-		add_core_of = KLM
+		add_core_of = TAG
 
 	}
 

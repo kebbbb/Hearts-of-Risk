@@ -7,12 +7,12 @@ state = {
         impassable = yes
 
 	history={
-		owner = RUS
+		owner = TVR
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = RUS
+		add_core_of = TVR
 	}
 
 	provinces={

@@ -7,12 +7,12 @@ state = {
 	}
 
 	history={
-		owner = RUS
+		owner = TVR
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = RUS
+		add_core_of = TVR
 
 	}
 

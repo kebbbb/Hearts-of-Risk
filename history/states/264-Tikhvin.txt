@@ -7,14 +7,14 @@ state = {
 	state_category = rural
 
 	history={
-		owner = RUS
+		owner = TVR
 		victory_points = {
 			3140 1
 		}
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = RUS
+		add_core_of = TVR
 	}
 
 	provinces={

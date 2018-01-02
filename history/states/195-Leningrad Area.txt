@@ -7,7 +7,7 @@ state = {
 	state_category = metropolis
 
 	history={
-		owner = RUS
+		owner = TVR
 		victory_points = {
 			3151 30
 		}
@@ -21,7 +21,7 @@ state = {
 				naval_base = 7
 			}
 		}
-		add_core_of = RUS
+		add_core_of = TVR
 
 	}
 

@@ -11,7 +11,7 @@ state = {
 
 	history={
 		owner = TAG
-		# owner = RUS
+		# owner = TAG
 		victory_points = {
 			957 3 # Vladivostok
 		}
@@ -28,7 +28,7 @@ state = {
 			}
 		}
 		add_core_of = TAG
-		# add_core_of = RUS
+		# add_core_of = TAG
 	}
 
 	provinces={

@@ -15,11 +15,16 @@
 
 
 
-PAV = "countries/Pavalix.txt"
-MNF = "countries/Manfred.txt"
-ANC = "countries/Anarchy.txt"
 
 
+
+
+####Russia
+VED = "countries/Vedra.txt"
+ROV = "countries/Roviet"
+RSK = "countries/Riskalite.txt"
+TVR = "countries/Tver.txt"
+##############################
 
 
 WOW = "countries/Wow.txt"
@@ -42,6 +47,9 @@ SON = "countries/Sonic.txt"
 
 
 
+PAV = "countries/Pavalix.txt"
+MNF = "countries/Manfred.txt"
+ANC = "countries/Anarchy.txt"
 
 VNC = "countries/Venice.txt"
 LEE = "countries/Molossia.txt"
@@ -66,7 +74,7 @@ TRV = "countries/Trivago.txt"
 TKC = "countries/Takech.txt"
 LEJ = "countries/Leejj.txt"
 YAY = "countries/Yay.txt"
-VED = "countries/Vedra.txt"
+
 BUM = "countries/Bumhole.txt"
 BOB = "countries/Bob.txt"
 MIT = "countries/Mitsuhito.txt"
@@ -100,7 +108,7 @@ JOO = "countries/Jono.txt"
 CAS = "countries/Castlemore.txt"
 SRY = "countries/Seryna.txt"
 TOR = "countries/Tornadocracy.txt"
-RSK = "countries/Riskalite.txt"
+
 SPA = "countries/Spartan.txt"
 LAN = "countries/Lancer.txt"
 MYA = "countries/Miya.txt"

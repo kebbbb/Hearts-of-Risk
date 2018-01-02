@@ -5,6 +5,22 @@
 
 
 
+ROV = {
+	color = rgb { 246 0 0 }
+	color_ui = rgb { 243 0 0 }
+}
+TVR = {
+	color = rgb { 14 96 22 }
+	color_ui = rgb { 15 95 22 }
+}
+
+
+
+
+
+
+
+
 
 
 PAV = {
@@ -19,14 +35,6 @@ ANC = {
 	color = rgb { 117 76 22 }
 	color_ui = rgb { 110 70 20 }
 }
-
-
-
-
-
-
-
-
 AUV = {
 	color = rgb { 67 179 183 }
 	color_ui = rgb { 70 180 180 }
@@ -189,8 +197,8 @@ ICY = {
 	color_ui = rgb { 150 115 80 }
 }
 VED = {
-	color = rgb { 103 71 30 }
-	color_ui = rgb { 150 115 80 }
+	color = rgb { 118 15 14 }
+	color_ui = rgb { 120 14 15 }
 }
 MRF = {
 	color = rgb { 125 70 50 }

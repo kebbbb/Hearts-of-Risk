@@ -13,7 +13,7 @@ state = {
 
 		}
 		add_core_of = TAG
-		add_core_of = UKR
+		add_core_of = TAG
 	}
 
 	provinces={

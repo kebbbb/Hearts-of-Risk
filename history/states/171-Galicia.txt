@@ -1,15 +1,12 @@
 
-state = {
+state={
 	id=171
 	name="STATE_171"
-	manpower = 2295085
-	
-	state_category = city
 
 	history={
 		owner = PAV
 		victory_points = {
-			758 3
+			758 3 
 		}
 		buildings = {
 			infrastructure = 6
@@ -18,12 +15,18 @@ state = {
 			air_base = 2
 			758 = {
 				naval_base = 6
+
 			}
+
 		}
 		add_core_of = PAV
+
 	}
 
 	provinces={
-		729 758 3761 6734 6764 6955 9686 9689 11675 11677 11692 11710 11840
+		729 758 3725 3744 3761 6734 6764 6955 9686 9689 9719 11675 11677 11692 11710 11840 11843 
 	}
+	manpower=2295085
+	buildings_max_level_factor=1.000
+	state_category=city
 }

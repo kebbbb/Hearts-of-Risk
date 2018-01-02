@@ -1,6 +1,6 @@
 ﻿capital = 554 # Nanjing
 
-oob = "TOY_1936"
+oob = "PHL_1936"
 
 # Starting tech
 set_technology = {
@@ -49,7 +49,7 @@ set_politics = {
 create_country_leader = {
 	name = "Phil"
 	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
-	picture = "Portrait_Toyo_Futusu.png"
+	picture = "Portrait_PHL"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

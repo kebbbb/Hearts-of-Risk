@@ -7,7 +7,7 @@ state = {
 	state_category = large_city
 
 	history={
-		owner = TAG
+		owner = PAV
 		victory_points = { 9764 20 } #Barcelona
 		victory_points = { 6966 2 } #Tarragona
 		buildings = {
@@ -19,7 +19,7 @@ state = {
 				naval_base = 4
 			}
 		}
-		add_core_of = TAG
+		add_core_of = PAV
 	}
 
 	provinces={

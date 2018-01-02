@@ -8,7 +8,7 @@ state =
 	
 	history=
 	{
-		owner = TAG
+		owner = PAV
 		buildings = {
 			infrastructure = 6
 			air_base = 1
@@ -19,7 +19,7 @@ state =
 				naval_base = 1
 			}
 		}
-		add_core_of = TAG
+		add_core_of = PAV
 	}
 	provinces=
 	{

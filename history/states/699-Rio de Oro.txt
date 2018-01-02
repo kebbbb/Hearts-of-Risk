@@ -6,7 +6,7 @@ state = {
 	state_category = wasteland
 
 	history={
-		owner = LHS
+		owner = PAV
 		victory_points = {
 			8111 1 #El Aaiún
 		}
@@ -19,7 +19,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = LHS
+		add_core_of = PAV
 	}
 	
 	provinces={

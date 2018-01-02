@@ -7,7 +7,7 @@ state = {
 	state_category = town
 
 	history={
-		owner = TAG
+		owner = PAV
 		buildings = {
 			infrastructure = 5
 			dockyard = 1
@@ -22,7 +22,7 @@ state = {
 		}
 
 		}
-		add_core_of = TAG
+		add_core_of = PAV
 
 	}
 

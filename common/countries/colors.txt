@@ -5,6 +5,24 @@
 
 
 
+
+
+HAN = {
+	color = rgb { 154 52 21 }
+	color_ui = rgb { 150 50 20 }
+}
+EXP = {
+	color = rgb { 125 149 160 }
+	color_ui = rgb { 130 150 160 }
+}
+ENT = {
+	color = rgb { 118 175 62 }
+	color_ui = rgb { 120 170 60 }
+}
+
+
+
+
 ROV = {
 	color = rgb { 246 0 0 }
 	color_ui = rgb { 243 0 0 }
@@ -13,16 +31,6 @@ TVR = {
 	color = rgb { 14 96 22 }
 	color_ui = rgb { 15 95 22 }
 }
-
-
-
-
-
-
-
-
-
-
 PAV = {
 	color = rgb { 73 78 184 }
 	color_ui = rgb { 74 78 180 }

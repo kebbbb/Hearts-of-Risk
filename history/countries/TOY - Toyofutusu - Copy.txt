@@ -35,12 +35,12 @@ set_politics = {
 			#banned = no #default is no
 		}
 		
-		imperialism = { 
+		neutrality = { 
 			popularity = 100
 		}
 	}
 	
-	ruling_party = imperialism
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -51,7 +51,7 @@ create_country_leader = {
 	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
 	picture = "Portrait_Toyo_Futusu.png"
 	expire = "1965.1.1"
-	ideology = imperialism_subtype
+	ideology = despotism
 	traits = {
 		#
 	}

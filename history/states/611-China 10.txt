@@ -1,32 +1,33 @@
 
-state = {
+state={
 	id=611
 	name="STATE_611"
 
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
-		add_core_of = TAG
+		owner = HAN
+		add_core_of = HAN
+		add_core_of = JOH
+		add_core_of = TOY
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			
 			952 = {
 				bunker = 1
+
 			}
 			3955 = {
 				bunker = 1
+
 			}
-			
+
 		}
 
 	}
 
 	provinces={
-		828 952 1137 1590 3955 6904 9776 10397
+		814 828 881 952 1137 1590 3955 6904 9768 9776 10397 11801 
 	}
 	manpower=1470000
-	buildings_max_level_factor=1
-	state_category="rural"
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

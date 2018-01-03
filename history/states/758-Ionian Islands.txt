@@ -4,7 +4,7 @@ state = {
 	name="STATE_758"
 
 	history={
-		owner = BEN
+		owner = EXP
 		
 		buildings = {
 			infrastructure = 4
@@ -12,7 +12,7 @@ state = {
 				naval_base = 1
 			}
 		}
-		add_core_of = BEN
+		add_core_of = EXP
 	}
 
 	provinces={

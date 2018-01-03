@@ -20,6 +20,15 @@
 
 
 
+
+
+
+ EXP_neutrality:0 "Order of the Experienced"
+
+ HAN_imperialism:0 "Han Dynasty"
+
+ ENT_neutrality:0 "Entrepreneur"
+
  TVR_neutrality:0 "Tver Serebry"
 
  ROV_participant:0 "Roviet Union"
@@ -100,7 +109,7 @@
 
  BOB_neutrality:0 "Kingdom of Bob"
  
- MIT_neutrality:0 "Mitsuhito"
+ MIT_imperialism:0 "Mitsuhito"
 
  ROX_neutrality:0 "Rock of Japan"
 

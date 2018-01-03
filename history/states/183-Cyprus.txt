@@ -10,8 +10,8 @@ state = {
 
 	history=
 	{
-		owner = BEN
-		add_core_of = BEN
+		owner = EXP
+		add_core_of = EXP
 		buildings = {
 			infrastructure = 4
 			air_base = 1

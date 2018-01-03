@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = TAG
+		owner = ENT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 
 		}
-		add_core_of = TAG
+		add_core_of = ENT
 		victory_points = {
 			1827 5 
 		}
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1756 1809 1827 3869 4723 4760 6887 7780 10535 10588 10640 11772 12570 12642 
+		868 1658 1809 1827 3869 4723 4760 7780 10588 10640 11772 12570 12642 
 	}
 	manpower=1035790
 	buildings_max_level_factor=1.000

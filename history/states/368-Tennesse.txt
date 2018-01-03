@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = TAG
+		owner = MNF
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 
 		}
-		add_core_of = TAG
+		add_core_of = MNF
 		victory_points = {
 			12501 3 
 		}

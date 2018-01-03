@@ -7,7 +7,7 @@ state = {
 	state_category = town
 
 	history={
-		owner = SRY
+		owner = GAY
 		victory_points = {
 			7361 8
 		}
@@ -21,7 +21,7 @@ state = {
 			}
 						dockyard = 1
 		}
-		add_core_of = SRY
+		add_core_of = GAY
 	}
 
 	provinces={

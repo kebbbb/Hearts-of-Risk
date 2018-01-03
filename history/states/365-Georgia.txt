@@ -4,7 +4,7 @@ state={
 	name="STATE_365"
 
 	history={
-		owner = MNF
+		owner = BLU
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 			}
 
 		}
-		add_core_of = MNF
+		add_core_of = BLU
 		victory_points = {
 			12384 10 
 		}

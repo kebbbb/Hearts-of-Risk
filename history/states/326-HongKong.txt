@@ -6,8 +6,8 @@ state =
 	state_category = large_town
 	history=
 	{
-		owner = TAG
-		add_core_of = TAG
+		owner = AMN
+		add_core_of = TOY
 		 
 		victory_points = {
 			10062 1

@@ -8,8 +8,8 @@ state = {
 	}
 
 	history= {
-		owner = TAG
-		add_core_of = TAG
+		owner = WOR
+		add_core_of = TOY
  
 		victory_points = {
 			9938 1

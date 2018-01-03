@@ -12,7 +12,7 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = TRN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -23,7 +23,7 @@ state = {
 			}
 		}
 		
-		add_core_of = TAG
+		add_core_of = TRN
 		 
 		
 		victory_points = {

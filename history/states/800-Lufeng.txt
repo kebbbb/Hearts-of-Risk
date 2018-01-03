@@ -8,11 +8,11 @@ state = {
 	}
 
 	history= {
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
-		add_core_of = TAG
-		add_core_of = TAG
+		owner = BLK
+		add_core_of = TOY
+		add_core_of = BLK
+		add_core_of = ECG
+		add_core_of = HAN
 		
 		victory_points = {
 			7067 1

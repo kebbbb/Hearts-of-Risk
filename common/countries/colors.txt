@@ -6,6 +6,35 @@
 
 
 
+VNZ = {
+	color = rgb { 175 103 63 }
+	color_ui = rgb { 175 100 65 }
+}
+TRN = {
+	color = rgb { 114 80 7 }
+	color_ui = rgb { 110 80 10 }
+}
+BLU = {
+	color = rgb { 102 150 221 }
+	color_ui = rgb { 100 150 220 }
+}
+NOB = {
+	color = rgb { 209 211 75 }
+	color_ui = rgb { 210 210 75 }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 HAN = {
 	color = rgb { 154 52 21 }
@@ -19,10 +48,6 @@ ENT = {
 	color = rgb { 118 175 62 }
 	color_ui = rgb { 120 170 60 }
 }
-
-
-
-
 ROV = {
 	color = rgb { 246 0 0 }
 	color_ui = rgb { 243 0 0 }

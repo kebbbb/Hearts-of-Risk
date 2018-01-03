@@ -6,10 +6,10 @@ state = {
 	state_category = enclave
 	
 	history={
-		owner = TAG
-		add_core_of = TAG
-		add_core_of = TAG
-		add_core_of = TAG
+		owner = AMN
+		add_core_of = TOY
+		add_core_of = ECG
+		add_core_of = HAN
 		victory_points = {
 			4189 1
 		}

@@ -7,13 +7,13 @@ state={
 	}
 
 	history={
-		owner = TAG
+		owner = NOB
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
 
 		}
-		add_core_of = TAG
+		add_core_of = NOB
 		victory_points = {
 			4569 10 
 		}

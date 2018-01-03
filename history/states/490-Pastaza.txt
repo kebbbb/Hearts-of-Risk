@@ -1,5 +1,5 @@
 
-state = {
+state={
 	id=490
 	name="STATE_490"
 
@@ -17,7 +17,7 @@ state = {
 	}
 
 	provinces={
-		8149 10942 12869 13347 13360 13362 13371 13540 
+		8149 10942 13347 13360 13540 
 	}
 	manpower=70020
 	buildings_max_level_factor=1.000

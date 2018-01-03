@@ -8,10 +8,11 @@
 
 
 
+VNZ = "countries/Venesuela.txt"
+TRN = "countries/Trinitits.txt"
+BLU = "countries/Bluelight.txt"
+NOB = "countries/Noob.txt"
 
-EXP = "countries/Experienced.txt"
-HAN = "countries/HanEmpire.txt"
-ENT = "countries/Entrepreneur.txt"
 
 
 
@@ -46,7 +47,9 @@ SON = "countries/Sonic.txt"
 
 
 
-
+EXP = "countries/Experienced.txt"
+HAN = "countries/HanEmpire.txt"
+ENT = "countries/Entrepreneur.txt"
 PAV = "countries/Pavalix.txt"
 MNF = "countries/Manfred.txt"
 ANC = "countries/Anarchy.txt"

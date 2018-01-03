@@ -1,21 +1,20 @@
 
-state = {
+state={
 	id=912
 	name="STATE_912"
 
 	history={
-		owner = TAG
+		owner = VNZ
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = TAG
+		add_core_of = VNZ
 
 	}
 
 	provinces={
-                10767 1981 10879 13434 13430 13432 10736
-		
+		1981 10736 10767 10879 12716 13429 13430 13432 13434 
 	}
 	manpower=178541
 	buildings_max_level_factor=1.000

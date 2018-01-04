@@ -8,10 +8,7 @@
 
 
 
-VNZ = "countries/Venesuela.txt"
-TRN = "countries/Trinitits.txt"
-BLU = "countries/Bluelight.txt"
-NOB = "countries/Noob.txt"
+RED = "countries/Redbox.txt"
 
 
 
@@ -53,7 +50,10 @@ ENT = "countries/Entrepreneur.txt"
 PAV = "countries/Pavalix.txt"
 MNF = "countries/Manfred.txt"
 ANC = "countries/Anarchy.txt"
-
+VNZ = "countries/Venesuela.txt"
+TRN = "countries/Trinitits.txt"
+BLU = "countries/Bluelight.txt"
+NOB = "countries/Noob.txt"
 VNC = "countries/Venice.txt"
 LEE = "countries/Molossia.txt"
 IMP = "countries/Imp.txt"
@@ -77,7 +77,6 @@ TRV = "countries/Trivago.txt"
 TKC = "countries/Takech.txt"
 LEJ = "countries/Leejj.txt"
 YAY = "countries/Yay.txt"
-
 BUM = "countries/Bumhole.txt"
 BOB = "countries/Bob.txt"
 MIT = "countries/Mitsuhito.txt"
@@ -111,7 +110,6 @@ JOO = "countries/Jono.txt"
 CAS = "countries/Castlemore.txt"
 SRY = "countries/Seryna.txt"
 TOR = "countries/Tornadocracy.txt"
-
 SPA = "countries/Spartan.txt"
 LAN = "countries/Lancer.txt"
 MYA = "countries/Miya.txt"

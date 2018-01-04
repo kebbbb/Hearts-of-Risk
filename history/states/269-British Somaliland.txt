@@ -6,8 +6,8 @@ state =
 	
 	state_category = rural
 	history= {
-		owner = VED
-		add_core_of = VED
+		owner = ABA
+		add_core_of = ABA
 		victory_points = { 5068 1 } #Hargeysa
 		victory_points = { 10921 1 } #Warsangali
 		buildings = {

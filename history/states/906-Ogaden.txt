@@ -6,9 +6,9 @@ state =
 	
 	state_category = town
 	history= {
-		owner = VED
-		add_core_of = VED
-		add_claim_by = TAG
+		owner = ABA
+		add_core_of = ABA
+		add_claim_by = ABA
 		victory_points = { 12812 1 } #Werder
 		buildings = {
 			infrastructure = 3

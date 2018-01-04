@@ -1,10 +1,7 @@
 
-state = {
-	id = 945
-	name = "STATE_945" # Northern Cape
-	manpower = 194820
-
-	state_category = pastoral
+state={
+	id=945
+	name="STATE_945"
 
 	history={
 		owner = ALX
@@ -13,14 +10,20 @@ state = {
 			infrastructure = 2
 			4528 = {
 				naval_base = 1
+
 			}
+
 		}
 		victory_points = {
-			10668 3 #Kimberley
+			10668 3 
 		}
+
 	}
 
 	provinces={
-		1509 4528 5203 10415 10442 10668 10697 12419
+		1509 4528 5203 8214 10415 10442 10668 10697 12419 12940 
 	}
+	manpower=194820
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -4,6 +4,22 @@
 
 
 
+RED = {
+	color = rgb { 184 0 0 }
+	color_ui = rgb { 181 0 0 }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 VNZ = {
@@ -22,20 +38,6 @@ NOB = {
 	color = rgb { 209 211 75 }
 	color_ui = rgb { 210 210 75 }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 HAN = {
 	color = rgb { 154 52 21 }
 	color_ui = rgb { 150 50 20 }

@@ -112,21 +112,21 @@ if = {
 set_politics = {
 
 	parties = {
-		founderism = { 
+		democratic = { 
 			popularity = 100
 		}
 
-		elite = {
+		fascism = {
 			popularity = 0
 		}
 		
-		riskalite = {
+		communism = {
 			popularity = 0
 			#banned = no #default is no
 		}
 	}
 	
-	ruling_party = founderism
+	ruling_party = democratic
 	last_election = "1935.11.27"
 	election_frequency = 36
 	elections_allowed = yes
@@ -159,7 +159,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHN_ORMOND_DESC"
 	picture = "GFX_NZL_john_ormond"
 	expire = "1965.1.1"
-	ideology = elite_ideology
+	ideology = fascism_ideology
 	traits = {
 		#
 	}
@@ -182,21 +182,21 @@ set_convoys = 70
 	set_politics = {
 
 		parties = {
-			founderism = { 
+			democratic = { 
 				popularity = 100
 			}
 
-			elite = {
+			fascism = {
 				popularity = 0
 			}
 			
-			riskalite = {
+			communism = {
 				popularity = 0
 				#banned = no #default is no
 			}
 		}
 		
-		ruling_party = founderism
+		ruling_party = democratic
 		last_election = "1938.10.15"
 		election_frequency = 60
 		elections_allowed = yes

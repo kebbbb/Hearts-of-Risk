@@ -7,7 +7,7 @@ state = {
 	}
 
 	history={
-		owner = TAG
+		owner = GST
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -17,7 +17,7 @@ state = {
 			}
 
 		}
-		add_core_of = TAG
+		add_core_of = GST
 
 	}
 

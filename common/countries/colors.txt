@@ -4,9 +4,14 @@
 
 
 
-RED = {
-	color = rgb { 184 0 0 }
-	color_ui = rgb { 181 0 0 }
+
+GST = {
+	color = rgb { 50 92 51 }
+	color_ui = rgb { 50 90 50 }
+}
+DVN = {
+	color = rgb { 36 141 39 }
+	color_ui = rgb { 40 140 40 }
 }
 
 
@@ -20,8 +25,10 @@ RED = {
 
 
 
-
-
+RED = {
+	color = rgb { 184 0 0 }
+	color_ui = rgb { 181 0 0 }
+}
 VNZ = {
 	color = rgb { 175 103 63 }
 	color_ui = rgb { 175 100 65 }

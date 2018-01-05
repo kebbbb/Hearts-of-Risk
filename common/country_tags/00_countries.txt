@@ -7,8 +7,10 @@
 
 
 
+GST = "countries/Guest.txt"
+DVN = "countries/Divine.txt"
 
-RED = "countries/Redbox.txt"
+
 
 
 
@@ -43,7 +45,7 @@ SON = "countries/Sonic.txt"
 #############################
 
 
-
+RED = "countries/Redbox.txt"
 EXP = "countries/Experienced.txt"
 HAN = "countries/HanEmpire.txt"
 ENT = "countries/Entrepreneur.txt"
